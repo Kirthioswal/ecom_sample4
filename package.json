@@ -1,0 +1,6 @@
+{
+  "name": "ecomiq-sample-4",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "dev": "python3 -m http.server 8001" }
+}
